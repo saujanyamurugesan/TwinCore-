@@ -1,13 +1,13 @@
 # TwinCore-
-##Overview
+## Overview
 
 TwinCore is a proposed digital-twin platform designed to monitor electronic circuits, compare real-world measurements with predicted behaviour, and identify potential anomalies under varying environmental conditions.
 
-##Problem Statement
+## Problem Statement
 
 Electronic systems operating in extreme environments, such as high-altitude regions, may experience changes in performance and reliability due to sub-zero temperatures, low atmospheric pressure, and environmental fluctuations.
 
-##Objectives
+## Objectives
 
 Monitor circuit voltage and current in real time.
 
@@ -21,7 +21,7 @@ Detect abnormal operating conditions.
 
 Simulate environmental variations and analyse their potential effects.
 
-##Proposed Technology
+## Proposed Technology
 
 ESP32 development board
 
@@ -35,7 +35,7 @@ Python
 
 Streamlit and Plotly for visualisation
 
-##Project Status
+## Project Status
 Initial planning and hardware prototyping phase. Hardware integration and software development are planned next.
 ##Future Scope
 
@@ -47,9 +47,9 @@ Environmental scenario simulation
 
 Cloud-based monitoring and subscription-based services
 
-##Validation
+## Validation
 
 The prototype will be tested using a low-voltage circuit. Performance claims will be based on measured results and controlled experiments.
 
-##Team
-##-MESTHRIS
+## Team
+## -MESTHRIS
