@@ -36,9 +36,7 @@ Python
 Streamlit and Plotly for visualisation
 
 ##Project Status
-
-Prototype development in progress.
-
+Initial planning and hardware prototyping phase. Hardware integration and software development are planned next.
 ##Future Scope
 
 Live digital-twin dashboard
